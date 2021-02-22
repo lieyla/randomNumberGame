@@ -1,0 +1,52 @@
+body{
+background-color: #57e5f8;
+
+
+
+
+}
+.h1{
+    text-transform: uppercase;
+    text-align:center;
+    
+}
+.number{
+background-color:rgb(195, 201, 196);
+border: solid 3px ;
+width: 70px;
+height: 50px;
+position: relative;
+left:30rem;
+}
+.animated{
+font-size: large;
+text-align: center;
+
+}
+#left{
+position: relative;
+top: 18rem;
+
+}
+#right{
+position: absolute;
+left:65rem;
+top: 28rem;
+
+}
+.message{
+font-size: 15px;
+order: 1;
+}
+#score{
+width: 50px;
+height: 50px;
+border: black 1px;
+}
+
+#guess{
+    width: 50px;
+height: 50px;
+border: black 1px;
+}
+    

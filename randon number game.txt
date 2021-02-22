@@ -1,0 +1,20 @@
+1.creat random number 1-100 with a function
+function randomNum();
+randomNum(){
+2.creat a guess input and submit button
+3.if the guessed number is less than the right number
+try  again with a higher number,
+4. if the guessed number is greater than the right number
+try  again with a lower number,
+5.if guessed right congradgulate them.
+6.let the overall score be seen.
+7.let the number of gueeses be seen.
+8.creat a button to change the rondom number.
+
+html{
+
+an input type for the random number and a submit button[summit]
+overall score button[total score]
+number of guess button[guess]
+a button for changing the random num [change]
+ 
